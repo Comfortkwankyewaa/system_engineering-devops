@@ -1,4 +1,2 @@
 #!/bin/bash
-#Sets permissions: owner & group = none, others = rwx for file 'hello'
-
 chmod 007 hello
