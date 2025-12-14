@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#Sets the permissions of 'hello' to -rwxr-x-wx
+
+chmod 731 hello
+
